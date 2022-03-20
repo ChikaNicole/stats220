@@ -3,7 +3,7 @@
 
 
 ## Some information about me:
-I am an university student and my major is **statistics**. I am an native speaker of Chinese and I can also speak English and Japanese also with some German and Korean because I am an amateur of languages~ I like music especially J-POP!
+I am an university student and my major is **statistics**. I am an native speaker of Chinese and I can also speak English and Japanese also with some German and Korean because I am an amateur of languages~ I like music especially J-POP and also coding!
 
 ## This is `the first time that I use code to make a meme!`
 Below is a meme I made using the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) of saga(who is a character in Arknights).
