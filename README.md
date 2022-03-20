@@ -1,4 +1,4 @@
 # stats220
 ## The purpose of my repo: To show the meme that I made for saga by using R language.
-[stats220repo](https://github.com/ChikaNicole/stats220/edit/main/README.md)
+[stats220repo](https://github.com/ChikaNicole/stats220)
 
