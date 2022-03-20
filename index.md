@@ -8,7 +8,6 @@ I am an university student and my major is **statistics**. I am an native speake
 ## This is `the first time that I use code to make a meme!`
 *Below is a meme I made using the R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html) of saga(who is a character in Arknights).
 
-*You can also check it with this url:http://localhost:27749/session/preview.jpeg
 ![my_meme](https://user-images.githubusercontent.com/100815234/157364901-0cd1a4f4-7738-4d11-9266-0f3524b31efc.jpeg)
 
 ## My motivation of making this meme
